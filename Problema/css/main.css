@@ -1,0 +1,27 @@
+
+.raya{
+	border: 1px solid black;
+	width: 80px; 
+}
+.caja{
+	position: relative;
+	display: inline-block;
+	width: 211px;
+	height: 211px;	
+	margin: 20px;
+}
+span{
+	color:white;
+	position:absolute;
+	right: 4px;
+	bottom: 4px;
+}
+.a {
+	position: absolute;
+	width: 211px;
+	height: 211px;
+	background-color: rgba(0,0,0,0.5);
+	top: 0px;
+	left: 0px;
+
+}
